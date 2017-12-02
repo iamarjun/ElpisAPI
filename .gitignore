@@ -1,0 +1,11 @@
+*.class
+*.iml
+*.ipr
+*.iws
+.idea/
+.gradletasknamecache
+.gradle/
+build/
+bin/
+.DS_Store
+out/
